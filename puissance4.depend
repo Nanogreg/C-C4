@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1286576461 source:c:\users\greg\desktop\p4v2\puissance4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<myconio.h>
+
+1286577484 source:c:\users\greg\desktop\isat\p4v2\puissance4\icone.rc
+
